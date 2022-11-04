@@ -1,0 +1,5 @@
+train: /home/bronze9/Group-Detector/yolov5/datasets/train/images
+val: /home/bronze9/Group-Detector/yolov5/datasets/valid/images
+
+nc: 1
+names: ['Person']
